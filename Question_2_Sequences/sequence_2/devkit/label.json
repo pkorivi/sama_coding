@@ -1,0 +1,41 @@
+{
+    "Category": {
+        "Car": "Vehicle designed primarily for personal use, e.g. sedans, hatchbacks, wagons, vans, minivans, SUVs and Jeep.",
+        "Truck": "Vehicles primarily designed to haul cargo including pick-ups, freight trucks, trucks and semi-tractors. Trailers hauled after a semi-tractor should be labeled as \"Trailer\"",
+        "Bus": "Buses and shuttles designed to carry more than 10 people.",
+        "Motorcycle": "Gasoline or electric powered 2-wheeled vehicle designed to move rapidly (at the speed of standard cars) on the road surface. This category includes all motorcycles, vespas and scooters. If there is a rider and/or passenger, include them in the box.",
+        "Bicycle": "Human or electric powered 2-wheeled vehicle designed to travel at lower speeds either on road surface, sidewalks or bicycle paths. If there is a rider and/or passenger, include them in the box.",
+        "BicycleRack": "Area or device intended to park or secure the bicycles in a row. It includes all the bicycles parked in it and any empty slots that are intended for parking bicycles. Bicycles that are not part of the rack should not be included. Instead they should be annotated as bicycles separately.",
+        "Trailer": "Any vehicle trailer, both for trucks, cars and motorcycles (regardless of whether currently being towed or not). For semi-trailers (containers) label the truck itself as \"front of semi truck\".",
+        "OtherVehicle": "Includes unusual vehicles such as trucks with cars on top, golf carts, tandem bicycles, tuk-tuks, and news vans, construction vehicles and other transportation that is hard to be classified into other vehicle types.",
+        "AdultPedestrian": "An adult pedestrian moving around the cityscape.",
+        "ChildPedestrian": "A child pedestrian (<1.2m) moving around the cityscape.",
+        "Stroller": "Any stroller. If a person is in the stroller, include in the annotation. If a pedestrian pushing the stroller, then they should be labeled separately.",
+        "Wheelchair": "Any type of wheelchair. If a pedestrian is pushing the wheelchair then they should be labeled separately.",
+        "Animal": "All animals, e.g. cats, rats, dogs, deer, birds.",
+        "TrafficConeNPole": "All types of traffic cones and poles.",
+        "TrafficCone": "All types of traffic cones.",
+        "PushablePullableObject": "Objects that a pedestrian may push or pull. For example dolleys, wheel barrows, garbage-bins with wheels, or shopping carts. Typically not designed to carry humans.",
+        "Debris": "Debris or movable object that is too large to be driven over safely. Includes misc. things like trash bags, temporary road-signs, objects around construction zones, and trash cans."
+    },
+    "Visibility": {
+        "0-25%": "The object is 0% to 25% visible in panoramic view of all cameras.",
+        "26-50%": "The object is 26% to 50% visible in panoramic view of all cameras.",
+        "51-75%": "The object is 51% to 75% visible in panoramic view of all cameras.",
+        "76-100%": "The object is 76% to 100% visible in panoramic view of all cameras."
+    },
+    "HumanActivity": {
+        "SittingOrLyingDown": "The human is sitting or lying down.",
+        "Standing": "The human is standing.",
+        "Moving": "The human is moving."
+    },
+    "VehicleState": {
+        "Moving": "Vehicle is moving.",
+        "Stopped": "Vehicle, with a driver/rider in/on it, is currently stationary but has an intent to move.",
+        "Parked": "Vehicle is stationary (usually for longer duration) with no immediate intent to move."
+    },
+    "HasPerson": {
+        "false": "There is NO rider on the bicycle or motorcycle.",
+        "true": "There is a rider on the bicycle or motorcycle."
+    }
+}

@@ -1,0 +1,1160 @@
+{
+    "tasks": [
+        {
+            "id": "61eedaaabebc2700622a7e93",
+            "step_id": 11073,
+            "round": 1,
+            "data": {
+                "Annotation Original url": "https://s3.amazonaws.com/sama-client-assets/development/SeedImages/image_tagging/dog1.jpg",
+                "Annotation Original file name": "dog1.jpg",
+                "Annotation Size": "469728",
+                "Annotation Height": "600",
+                "Annotation Width": "900",
+                "Name": "Image 1",
+                "Image": "https://s3.amazonaws.com/sama-client-assets/development/SeedImages/image_tagging/dog1.jpg"
+            },
+            "answers": {
+                "Annotation": {
+                    "layers": {
+                        "vector_tagging": {
+                            "frame_count": 1,
+                            "shape_groups": [
+                                {
+                                    "group_type": null,
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 1,
+                                            "tags": {
+                                                "Shape": "Triangle"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            124,
+                                                            71
+                                                        ],
+                                                        [
+                                                            275,
+                                                            168
+                                                        ],
+                                                        [
+                                                            110,
+                                                            240
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group2",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 3,
+                                            "tags": {
+                                                "Occlusion": {
+                                                    "Top_Left": "0",
+                                                    "Top_Right": "0",
+                                                    "Bottom_Right": "1",
+                                                    "Bottom_Left": "1"
+                                                },
+                                                "Shape": "Quad"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            598,
+                                                            328
+                                                        ],
+                                                        [
+                                                            761,
+                                                            334
+                                                        ],
+                                                        [
+                                                            750,
+                                                            481
+                                                        ],
+                                                        [
+                                                            591,
+                                                            460
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 4,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            445,
+                                                            214
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group1",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 2,
+                                            "tags": {
+                                                "Shape": "Quad",
+                                                "Occlusion": {
+                                                    "Top_Left": "1",
+                                                    "Top_Right": "0",
+                                                    "Bottom_Right": "0",
+                                                    "Bottom_Left": "0"
+                                                }
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            508,
+                                                            91
+                                                        ],
+                                                        [
+                                                            603,
+                                                            120
+                                                        ],
+                                                        [
+                                                            565,
+                                                            196
+                                                        ],
+                                                        [
+                                                            465,
+                                                            165
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 5,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            696,
+                                                            285
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group3",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 6,
+                                            "tags": {
+                                                "Shape": "Quad"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            708,
+                                                            57
+                                                        ],
+                                                        [
+                                                            814,
+                                                            103
+                                                        ],
+                                                        [
+                                                            762,
+                                                            228
+                                                        ],
+                                                        [
+                                                            642,
+                                                            172
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 7,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            460,
+                                                            468
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": "61eedaaabebc2700622a7e94",
+            "step_id": 11073,
+            "round": 1,
+            "data": {
+                "Annotation Original url": "https://s3.amazonaws.com/sama-client-assets/development/SeedImages/image_tagging/dog2.jpg",
+                "Annotation Original file name": "dog2.jpg",
+                "Annotation Size": "469728",
+                "Annotation Height": "600",
+                "Annotation Width": "900",
+                "Name": "Image 2",
+                "Image": "https://s3.amazonaws.com/sama-client-assets/development/SeedImages/image_tagging/dog2.jpg"
+            },
+            "answers": {
+                "Annotation": {
+                    "layers": {
+                        "vector_tagging": {
+                            "frame_count": 1,
+                            "shape_groups": [
+                                {
+                                    "group_type": null,
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 4,
+                                            "tags": {
+                                                "Shape": "Triangle"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            409,
+                                                            102
+                                                        ],
+                                                        [
+                                                            484,
+                                                            249
+                                                        ],
+                                                        [
+                                                            323,
+                                                            231
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group2",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 3,
+                                            "tags": {
+                                                "Shape": "Quad",
+                                                "Occlusion": {
+                                                    "Top_Left": "1",
+                                                    "Top_Right": "1",
+                                                    "Bottom_Right": "0",
+                                                    "Bottom_Left": "0"
+                                                }
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            634,
+                                                            239
+                                                        ],
+                                                        [
+                                                            764,
+                                                            232
+                                                        ],
+                                                        [
+                                                            784,
+                                                            432
+                                                        ],
+                                                        [
+                                                            596,
+                                                            441
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 5,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            96,
+                                                            161
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group1",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 1,
+                                            "tags": {
+                                                "Shape": "Quad",
+                                                "Occlusion": {
+                                                    "Top_Left": "0",
+                                                    "Top_Right": "0",
+                                                    "Bottom_Right": "0",
+                                                    "Bottom_Left": "0"
+                                                }
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            127,
+                                                            220
+                                                        ],
+                                                        [
+                                                            277,
+                                                            212
+                                                        ],
+                                                        [
+                                                            297,
+                                                            369
+                                                        ],
+                                                        [
+                                                            125,
+                                                            391
+                                                        ],
+                                                        [
+                                                            81,
+                                                            294
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 6,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            798,
+                                                            182
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": null,
+                                    "shapes": [
+                                        {
+                                            "type": "point",
+                                            "index": 7,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            660,
+                                                            401
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": "61eedaaabebc2700622a7e95",
+            "step_id": 11073,
+            "round": 1,
+            "data": {
+                "Annotation Original url": "https://s3.amazonaws.com/sama-client-assets/development/SeedImages/image_tagging/dog3.jpg",
+                "Annotation Original file name": "dog3.jpg",
+                "Annotation Size": "469728",
+                "Annotation Height": "600",
+                "Annotation Width": "900",
+                "Name": "Image 3",
+                "Image": "https://s3.amazonaws.com/sama-client-assets/development/SeedImages/image_tagging/dog3.jpg"
+            },
+            "answers": {
+                "Annotation": {
+                    "layers": {
+                        "vector_tagging": {
+                            "frame_count": 1,
+                            "shape_groups": [
+                                {
+                                    "group_type": null,
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 2,
+                                            "tags": {
+                                                "Shape": "Quad",
+                                                "Occlusion": {
+                                                    "Top_Left": "0",
+                                                    "Top_Right": "0",
+                                                    "Bottom_Right": "0",
+                                                    "Bottom_Left": "0"
+                                                }
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            370,
+                                                            298
+                                                        ],
+                                                        [
+                                                            219,
+                                                            301
+                                                        ],
+                                                        [
+                                                            217,
+                                                            141
+                                                        ],
+                                                        [
+                                                            374,
+                                                            144
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group1",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 4,
+                                            "tags": {
+                                                "Occlusion": {
+                                                    "Top_Left": "1",
+                                                    "Top_Right": "0",
+                                                    "Bottom_Right": "0",
+                                                    "Bottom_Left": "0"
+                                                },
+                                                "Shape": "Triangle"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            549,
+                                                            86
+                                                        ],
+                                                        [
+                                                            616,
+                                                            215
+                                                        ],
+                                                        [
+                                                            476,
+                                                            210
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 5,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            332,
+                                                            92
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group2",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 3,
+                                            "tags": {
+                                                "Shape": "Quad",
+                                                "Occlusion": {
+                                                    "Top_Left": "1",
+                                                    "Top_Right": "0",
+                                                    "Bottom_Right": "0",
+                                                    "Bottom_Left": "0"
+                                                }
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            541,
+                                                            337
+                                                        ],
+                                                        [
+                                                            687,
+                                                            385
+                                                        ],
+                                                        [
+                                                            651,
+                                                            510
+                                                        ],
+                                                        [
+                                                            503,
+                                                            503
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 6,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            671,
+                                                            331
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": "61eedaaabebc2700622a7e96",
+            "step_id": 11073,
+            "round": 1,
+            "data": {
+                "Annotation Original url": "https://s3.amazonaws.com/sama-client-assets/development/SeedImages/image_tagging/dog4.jpg",
+                "Annotation Original file name": "dog4.jpg",
+                "Annotation Size": "469728",
+                "Annotation Height": "600",
+                "Annotation Width": "900",
+                "Name": "Image 4",
+                "Image": "https://s3.amazonaws.com/sama-client-assets/development/SeedImages/image_tagging/dog4.jpg"
+            },
+            "answers": {
+                "Annotation": {
+                    "layers": {
+                        "vector_tagging": {
+                            "frame_count": 1,
+                            "shape_groups": [
+                                {
+                                    "group_type": null,
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 4,
+                                            "tags": {
+                                                "Shape": "Triangle"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            509,
+                                                            128
+                                                        ],
+                                                        [
+                                                            547,
+                                                            249
+                                                        ],
+                                                        [
+                                                            372,
+                                                            228
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": null,
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 5,
+                                            "tags": {
+                                                "Shape": "Triangle"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            562,
+                                                            417
+                                                        ],
+                                                        [
+                                                            631,
+                                                            555
+                                                        ],
+                                                        [
+                                                            456,
+                                                            543
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group3",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 1,
+                                            "tags": {
+                                                "Shape": "Quad"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            120,
+                                                            428
+                                                        ],
+                                                        [
+                                                            272,
+                                                            414
+                                                        ],
+                                                        [
+                                                            265,
+                                                            522
+                                                        ],
+                                                        [
+                                                            115,
+                                                            533
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 6,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            130,
+                                                            62
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group2",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 2,
+                                            "tags": {
+                                                "Occlusion": {
+                                                    "Top_Left": "0",
+                                                    "Top_Right": "1",
+                                                    "Bottom_Right": "0",
+                                                    "Bottom_Left": "0"
+                                                },
+                                                "Shape": "Quad"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            707,
+                                                            152
+                                                        ],
+                                                        [
+                                                            822,
+                                                            171
+                                                        ],
+                                                        [
+                                                            797,
+                                                            316
+                                                        ],
+                                                        [
+                                                            641,
+                                                            292
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 7,
+                                            "tags": {
+                                                "Shape": ""
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            141,
+                                                            358
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group1",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 3,
+                                            "tags": {
+                                                "Shape": "Quad"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            112,
+                                                            114
+                                                        ],
+                                                        [
+                                                            245,
+                                                            108
+                                                        ],
+                                                        [
+                                                            245,
+                                                            214
+                                                        ],
+                                                        [
+                                                            106,
+                                                            210
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 8,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            769,
+                                                            129
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": "61eedaaabebc2700622a7e97",
+            "step_id": 11073,
+            "round": 1,
+            "data": {
+                "Annotation Original url": "https://s3.amazonaws.com/sama-client-assets/development/SeedImages/image_tagging/dog5.jpg",
+                "Annotation Original file name": "dog5.jpg",
+                "Annotation Size": "469728",
+                "Annotation Height": "600",
+                "Annotation Width": "900",
+                "Name": "Image 5",
+                "Image": "https://s3.amazonaws.com/sama-client-assets/development/SeedImages/image_tagging/dog5.jpg"
+            },
+            "answers": {
+                "Annotation": {
+                    "layers": {
+                        "vector_tagging": {
+                            "frame_count": 1,
+                            "shape_groups": [
+                                {
+                                    "group_type": null,
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 5,
+                                            "tags": {
+                                                "Shape": "Triangle"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            751,
+                                                            372
+                                                        ],
+                                                        [
+                                                            822,
+                                                            477
+                                                        ],
+                                                        [
+                                                            693,
+                                                            483
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group4",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 1,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            114,
+                                                            90
+                                                        ],
+                                                        [
+                                                            354,
+                                                            110
+                                                        ],
+                                                        [
+                                                            303,
+                                                            254
+                                                        ],
+                                                        [
+                                                            96,
+                                                            236
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 6,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            168,
+                                                            61
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group3",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 4,
+                                            "tags": {
+                                                "Shape": "Quad"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            533,
+                                                            228
+                                                        ],
+                                                        [
+                                                            548,
+                                                            105
+                                                        ],
+                                                        [
+                                                            441,
+                                                            101
+                                                        ],
+                                                        [
+                                                            400,
+                                                            218
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 7,
+                                            "tags": {},
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            510,
+                                                            74
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group2",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 3,
+                                            "tags": {
+                                                "Shape": "Quad"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            665,
+                                                            87
+                                                        ],
+                                                        [
+                                                            809,
+                                                            91
+                                                        ],
+                                                        [
+                                                            811,
+                                                            237
+                                                        ],
+                                                        [
+                                                            658,
+                                                            233
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 8,
+                                            "tags": {
+                                                "Shape": "Quad"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            731,
+                                                            53
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "group_type": "Group1",
+                                    "shapes": [
+                                        {
+                                            "type": "polygon",
+                                            "index": 2,
+                                            "tags": {
+                                                "Occlusion": {
+                                                    "Top_Left": "1",
+                                                    "Top_Right": "1",
+                                                    "Bottom_Right": "0",
+                                                    "Bottom_Left": "0"
+                                                },
+                                                "Shape": "Quad"
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            605,
+                                                            375
+                                                        ],
+                                                        [
+                                                            473,
+                                                            360
+                                                        ],
+                                                        [
+                                                            455,
+                                                            488
+                                                        ],
+                                                        [
+                                                            601,
+                                                            502
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "point",
+                                            "index": 9,
+                                            "tags": {
+                                                "Occlusion": {
+                                                    "Top_Left": "0",
+                                                    "Top_Right": "1",
+                                                    "Bottom_Right": "0",
+                                                    "Bottom_Left": "0"
+                                                }
+                                            },
+                                            "key_locations": [
+                                                {
+                                                    "frame_number": 0,
+                                                    "points": [
+                                                        [
+                                                            511,
+                                                            539
+                                                        ]
+                                                    ],
+                                                    "visibility": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "scripts": [
+        {
+            "id": "two_shapes_minimum_vector",
+            "mode": "production",
+            "name": "At least two shapes in each vector annotation output"
+        }
+    ],
+    "user_id": 17600
+}

@@ -1,0 +1,2200 @@
+{
+  "annotation_frequency": 2.0005790479097754,
+  "annotation_sample_rate": 1,
+  "attributes": { "daylight": null, "location": null, "weather": null },
+  "category": {},
+  "duration": 12.12489628791809,
+  "frame_nums": 25,
+  "frames": {
+    "1657658213257026219": {
+      "annotated": false,
+      "index": "1657658213257026219",
+      "next": "1657658213756700921",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.7190481274242161,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.6949602797626123
+        },
+        "position": {
+          "frame": "world",
+          "x": 595448.1695671343,
+          "y": 4344917.0814750595,
+          "z": 0.0
+        }
+      },
+      "prev": null,
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658213257026219",
+          "index": "1657658213257026219",
+          "next": "1657658213756700921",
+          "prev": null,
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658213257026219,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658213257026219.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658213257026219",
+          "index": "1657658213315723314",
+          "next": "1657658213766730265",
+          "prev": null,
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658213315723314,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658213315723314.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658213257026219",
+          "index": "1657658213243346843",
+          "next": "1657658213744467317",
+          "prev": null,
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658213243346843,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658213243346843.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658213257026219",
+          "index": "1657658213269336795",
+          "next": "1657658213720080757",
+          "prev": null,
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658213269336795,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658213269336795.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658213243346843,
+        "/sama/camera/left/image_raw/compressed": 1657658213315723314,
+        "/sama/camera/right/image_raw/compressed": 1657658213269336795,
+        "/sama/location/global": 1657658213252392769,
+        "/pcd": 1657658213257026219
+      }
+    },
+    "1657658213756700921": {
+      "annotated": false,
+      "index": "1657658213756700921",
+      "next": "1657658214256247224",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.7198486192002674,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.6941310866367162
+        },
+        "position": {
+          "frame": "world",
+          "x": 595448.1865024883,
+          "y": 4344916.78172443,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658213257026219",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658213756700921",
+          "index": "1657658213756700921",
+          "next": "1657658214256247224",
+          "prev": "1657658213257026219",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658213756700921,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658213756700921.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658213756700921",
+          "index": "1657658213766730265",
+          "next": "1657658214218760688",
+          "prev": "1657658213315723314",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658213766730265,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658213766730265.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658213756700921",
+          "index": "1657658213744467317",
+          "next": "1657658214244606802",
+          "prev": "1657658213243346843",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658213744467317,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658213744467317.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658213756700921",
+          "index": "1657658213720080757",
+          "next": "1657658214271196401",
+          "prev": "1657658213269336795",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658213720080757,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658213720080757.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658213744467317,
+        "/sama/camera/left/image_raw/compressed": 1657658213766730265,
+        "/sama/camera/right/image_raw/compressed": 1657658213720080757,
+        "/sama/location/global": 1657658213753391266,
+        "/pcd": 1657658213756700921
+      }
+    },
+    "1657658214256247224": {
+      "annotated": false,
+      "index": "1657658214256247224",
+      "next": "1657658214756073711",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.7223254432392069,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.6915532908238404
+        },
+        "position": {
+          "frame": "world",
+          "x": 595448.2046556587,
+          "y": 4344916.481663417,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658213756700921",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658214256247224",
+          "index": "1657658214256247224",
+          "next": "1657658214756073711",
+          "prev": "1657658213756700921",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658214256247224,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658214256247224.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658214256247224",
+          "index": "1657658214218760688",
+          "next": "1657658214718911104",
+          "prev": "1657658213766730265",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658214218760688,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658214218760688.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658214256247224",
+          "index": "1657658214244606802",
+          "next": "1657658214745412004",
+          "prev": "1657658213744467317",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658214244606802,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658214244606802.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658214256247224",
+          "index": "1657658214271196401",
+          "next": "1657658214772252240",
+          "prev": "1657658213720080757",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658214271196401,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658214271196401.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658214244606802,
+        "/sama/camera/left/image_raw/compressed": 1657658214218760688,
+        "/sama/camera/right/image_raw/compressed": 1657658214271196401,
+        "/sama/location/global": 1657658214253207684,
+        "/pcd": 1657658214256247224
+      }
+    },
+    "1657658214756073711": {
+      "annotated": false,
+      "index": "1657658214756073711",
+      "next": "1657658215255847578",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.7293448562519044,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.6841462421579826
+        },
+        "position": {
+          "frame": "world",
+          "x": 595448.2280215002,
+          "y": 4344916.167150445,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658214256247224",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658214756073711",
+          "index": "1657658214756073711",
+          "next": "1657658215255847578",
+          "prev": "1657658214256247224",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658214756073711,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658214756073711.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658214756073711",
+          "index": "1657658214718911104",
+          "next": "1657658215219426204",
+          "prev": "1657658214218760688",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658214718911104,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658214718911104.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658214756073711",
+          "index": "1657658214745412004",
+          "next": "1657658215247326956",
+          "prev": "1657658214244606802",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658214745412004,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658214745412004.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658214756073711",
+          "index": "1657658214772252240",
+          "next": "1657658215271959326",
+          "prev": "1657658214271196401",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658214772252240,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658214772252240.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658214745412004,
+        "/sama/camera/left/image_raw/compressed": 1657658214718911104,
+        "/sama/camera/right/image_raw/compressed": 1657658214772252240,
+        "/sama/location/global": 1657658214753214359,
+        "/pcd": 1657658214756073711
+      }
+    },
+    "1657658215255847578": {
+      "annotated": false,
+      "index": "1657658215255847578",
+      "next": "1657658215755388362",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.7376086775240436,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.6752284345621351
+        },
+        "position": {
+          "frame": "world",
+          "x": 595448.2599137306,
+          "y": 4344915.841043475,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658214756073711",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658215255847578",
+          "index": "1657658215255847578",
+          "next": "1657658215755388362",
+          "prev": "1657658214756073711",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658215255847578,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658215255847578.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658215255847578",
+          "index": "1657658215219426204",
+          "next": "1657658215719465664",
+          "prev": "1657658214718911104",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658215219426204,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658215219426204.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658215255847578",
+          "index": "1657658215247326956",
+          "next": "1657658215747963032",
+          "prev": "1657658214745412004",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658215247326956,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658215247326956.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658215255847578",
+          "index": "1657658215271959326",
+          "next": "1657658215722522504",
+          "prev": "1657658214772252240",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658215271959326,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658215271959326.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658215247326956,
+        "/sama/camera/left/image_raw/compressed": 1657658215219426204,
+        "/sama/camera/right/image_raw/compressed": 1657658215271959326,
+        "/sama/location/global": 1657658215252818108,
+        "/pcd": 1657658215255847578
+      }
+    },
+    "1657658215755388362": {
+      "annotated": false,
+      "index": "1657658215755388362",
+      "next": "1657658216255025244",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.7497734695931576,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.6616946004723314
+        },
+        "position": {
+          "frame": "world",
+          "x": 595448.3024687222,
+          "y": 4344915.505992736,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658215255847578",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658215755388362",
+          "index": "1657658215755388362",
+          "next": "1657658216255025244",
+          "prev": "1657658215255847578",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658215755388362,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658215755388362.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658215755388362",
+          "index": "1657658215719465664",
+          "next": "1657658216219850620",
+          "prev": "1657658215219426204",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658215719465664,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658215719465664.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658215755388362",
+          "index": "1657658215747963032",
+          "next": "1657658216248254613",
+          "prev": "1657658215247326956",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658215747963032,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658215747963032.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658215755388362",
+          "index": "1657658215722522504",
+          "next": "1657658216223106723",
+          "prev": "1657658215271959326",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658215722522504,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658215722522504.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658215747963032,
+        "/sama/camera/left/image_raw/compressed": 1657658215719465664,
+        "/sama/camera/right/image_raw/compressed": 1657658215722522504,
+        "/sama/location/global": 1657658215753444433,
+        "/pcd": 1657658215755388362
+      }
+    },
+    "1657658216255025244": {
+      "annotated": false,
+      "index": "1657658216255025244",
+      "next": "1657658216754188698",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.7659467983088806,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.6429039602929625
+        },
+        "position": {
+          "frame": "world",
+          "x": 595448.3606582979,
+          "y": 4344915.163230378,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658215755388362",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658216255025244",
+          "index": "1657658216255025244",
+          "next": "1657658216754188698",
+          "prev": "1657658215755388362",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658216255025244,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658216255025244.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658216255025244",
+          "index": "1657658216219850620",
+          "next": "1657658216799380214",
+          "prev": "1657658215719465664",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658216219850620,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658216219850620.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658216255025244",
+          "index": "1657658216248254613",
+          "next": "1657658216748083714",
+          "prev": "1657658215747963032",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658216248254613,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658216248254613.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658216255025244",
+          "index": "1657658216223106723",
+          "next": "1657658216775928904",
+          "prev": "1657658215722522504",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658216223106723,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658216223106723.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658216248254613,
+        "/sama/camera/left/image_raw/compressed": 1657658216219850620,
+        "/sama/camera/right/image_raw/compressed": 1657658216223106723,
+        "/sama/location/global": 1657658216253171682,
+        "/pcd": 1657658216255025244
+      }
+    },
+    "1657658216754188698": {
+      "annotated": false,
+      "index": "1657658216754188698",
+      "next": "1657658217253527244",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.7905581939738604,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.6123869217584487
+        },
+        "position": {
+          "frame": "world",
+          "x": 595448.4419401928,
+          "y": 4344914.821545803,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658216255025244",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658216754188698",
+          "index": "1657658216754188698",
+          "next": "1657658217253527244",
+          "prev": "1657658216255025244",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658216754188698,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658216754188698.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658216754188698",
+          "index": "1657658216799380214",
+          "next": "1657658217233291457",
+          "prev": "1657658216219850620",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658216799380214,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658216799380214.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658216754188698",
+          "index": "1657658216748083714",
+          "next": "1657658217248810149",
+          "prev": "1657658216248254613",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658216748083714,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658216748083714.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658216754188698",
+          "index": "1657658216775928904",
+          "next": "1657658217275519938",
+          "prev": "1657658216223106723",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658216775928904,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658216775928904.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658216748083714,
+        "/sama/camera/left/image_raw/compressed": 1657658216799380214,
+        "/sama/camera/right/image_raw/compressed": 1657658216775928904,
+        "/sama/location/global": 1657658216753750324,
+        "/pcd": 1657658216754188698
+      }
+    },
+    "1657658217253527244": {
+      "annotated": false,
+      "index": "1657658217253527244",
+      "next": "1657658217753392223",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.8267752447842737,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.5625323942777912
+        },
+        "position": {
+          "frame": "world",
+          "x": 595448.5573535749,
+          "y": 4344914.492182693,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658216754188698",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658217253527244",
+          "index": "1657658217253527244",
+          "next": "1657658217753392223",
+          "prev": "1657658216754188698",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658217253527244,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658217253527244.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658217253527244",
+          "index": "1657658217233291457",
+          "next": "1657658217738867226",
+          "prev": "1657658216799380214",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658217233291457,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658217233291457.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658217253527244",
+          "index": "1657658217248810149",
+          "next": "1657658217750049211",
+          "prev": "1657658216748083714",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658217248810149,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658217248810149.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658217253527244",
+          "index": "1657658217275519938",
+          "next": "1657658217775904140",
+          "prev": "1657658216775928904",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658217275519938,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658217275519938.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658217248810149,
+        "/sama/camera/left/image_raw/compressed": 1657658217233291457,
+        "/sama/camera/right/image_raw/compressed": 1657658217275519938,
+        "/sama/location/global": 1657658217253598213,
+        "/pcd": 1657658217253527244
+      }
+    },
+    "1657658217753392223": {
+      "annotated": false,
+      "index": "1657658217753392223",
+      "next": "1657658218252682419",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.8644417032291204,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.5027330720355856
+        },
+        "position": {
+          "frame": "world",
+          "x": 595448.7128212032,
+          "y": 4344914.180390595,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658217253527244",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658217753392223",
+          "index": "1657658217753392223",
+          "next": "1657658218252682419",
+          "prev": "1657658217253527244",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658217753392223,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658217753392223.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658217753392223",
+          "index": "1657658217738867226",
+          "next": "1657658218239447668",
+          "prev": "1657658217233291457",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658217738867226,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658217738867226.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658217753392223",
+          "index": "1657658217750049211",
+          "next": "1657658218255035413",
+          "prev": "1657658217248810149",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658217750049211,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658217750049211.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658217753392223",
+          "index": "1657658217775904140",
+          "next": "1657658218276295844",
+          "prev": "1657658217275519938",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658217775904140,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658217775904140.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658217750049211,
+        "/sama/camera/left/image_raw/compressed": 1657658217738867226,
+        "/sama/camera/right/image_raw/compressed": 1657658217775904140,
+        "/sama/location/global": 1657658217753351927,
+        "/pcd": 1657658217753392223
+      }
+    },
+    "1657658218252682419": {
+      "annotated": false,
+      "index": "1657658218252682419",
+      "next": "1657658218752176532",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.903714962295349,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.4281346364445605
+        },
+        "position": {
+          "frame": "world",
+          "x": 595448.91966561,
+          "y": 4344913.891945326,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658217753392223",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658218252682419",
+          "index": "1657658218252682419",
+          "next": "1657658218752176532",
+          "prev": "1657658217753392223",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658218252682419,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658218252682419.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658218252682419",
+          "index": "1657658218239447668",
+          "next": "1657658218740153745",
+          "prev": "1657658217738867226",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658218239447668,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658218239447668.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658218252682419",
+          "index": "1657658218255035413",
+          "next": "1657658218774382472",
+          "prev": "1657658217750049211",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658218255035413,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658218255035413.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658218252682419",
+          "index": "1657658218276295844",
+          "next": "1657658218778912889",
+          "prev": "1657658217775904140",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658218276295844,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658218276295844.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658218255035413,
+        "/sama/camera/left/image_raw/compressed": 1657658218239447668,
+        "/sama/camera/right/image_raw/compressed": 1657658218276295844,
+        "/sama/location/global": 1657658218253547430,
+        "/pcd": 1657658218252682419
+      }
+    },
+    "1657658218752176532": {
+      "annotated": false,
+      "index": "1657658218752176532",
+      "next": "1657658219251824599",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.9397697112376688,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.34180826473370807
+        },
+        "position": {
+          "frame": "world",
+          "x": 595449.1730642287,
+          "y": 4344913.646357563,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658218252682419",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658218752176532",
+          "index": "1657658218752176532",
+          "next": "1657658219251824599",
+          "prev": "1657658218252682419",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658218752176532,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658218752176532.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658218752176532",
+          "index": "1657658218740153745",
+          "next": "1657658219239742523",
+          "prev": "1657658218239447668",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658218740153745,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658218740153745.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658218752176532",
+          "index": "1657658218774382472",
+          "next": "1657658219257054950",
+          "prev": "1657658218255035413",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658218774382472,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658218774382472.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658218752176532",
+          "index": "1657658218778912889",
+          "next": "1657658219279075552",
+          "prev": "1657658218276295844",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658218778912889,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658218778912889.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658218774382472,
+        "/sama/camera/left/image_raw/compressed": 1657658218740153745,
+        "/sama/camera/right/image_raw/compressed": 1657658218778912889,
+        "/sama/location/global": 1657658218753220797,
+        "/pcd": 1657658218752176532
+      }
+    },
+    "1657658219251824599": {
+      "annotated": false,
+      "index": "1657658219251824599",
+      "next": "1657658219751296092",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.9673090829709713,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.2536003509497938
+        },
+        "position": {
+          "frame": "world",
+          "x": 595449.4569849025,
+          "y": 4344913.460885439,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658218752176532",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658219251824599",
+          "index": "1657658219251824599",
+          "next": "1657658219751296092",
+          "prev": "1657658218752176532",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658219251824599,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658219251824599.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658219251824599",
+          "index": "1657658219239742523",
+          "next": "1657658219739989305",
+          "prev": "1657658218740153745",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658219239742523,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658219239742523.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658219251824599",
+          "index": "1657658219257054950",
+          "next": "1657658219758160610",
+          "prev": "1657658218774382472",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658219257054950,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658219257054950.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658219251824599",
+          "index": "1657658219279075552",
+          "next": "1657658219779630071",
+          "prev": "1657658218778912889",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658219279075552,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658219279075552.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658219257054950,
+        "/sama/camera/left/image_raw/compressed": 1657658219239742523,
+        "/sama/camera/right/image_raw/compressed": 1657658219279075552,
+        "/sama/location/global": 1657658219253379107,
+        "/pcd": 1657658219251824599
+      }
+    },
+    "1657658219751296092": {
+      "annotated": false,
+      "index": "1657658219751296092",
+      "next": "1657658220250854097",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.9854380530333684,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.17003483064891245
+        },
+        "position": {
+          "frame": "world",
+          "x": 595449.7465618077,
+          "y": 4344913.340630922,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658219251824599",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658219751296092",
+          "index": "1657658219751296092",
+          "next": "1657658220250854097",
+          "prev": "1657658219251824599",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658219751296092,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658219751296092.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658219751296092",
+          "index": "1657658219739989305",
+          "next": "1657658220240202616",
+          "prev": "1657658219239742523",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658219739989305,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658219739989305.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658219751296092",
+          "index": "1657658219758160610",
+          "next": "1657658220261277861",
+          "prev": "1657658219257054950",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658219758160610,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658219758160610.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658219751296092",
+          "index": "1657658219779630071",
+          "next": "1657658220280155408",
+          "prev": "1657658219279075552",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658219779630071,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658219779630071.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658219758160610,
+        "/sama/camera/left/image_raw/compressed": 1657658219739989305,
+        "/sama/camera/right/image_raw/compressed": 1657658219779630071,
+        "/sama/location/global": 1657658219753581762,
+        "/pcd": 1657658219751296092
+      }
+    },
+    "1657658220250854097": {
+      "annotated": false,
+      "index": "1657658220250854097",
+      "next": "1657658220750614211",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.995702720744375,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.09260719141756259
+        },
+        "position": {
+          "frame": "world",
+          "x": 595450.0308786556,
+          "y": 4344913.275231439,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658219751296092",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658220250854097",
+          "index": "1657658220250854097",
+          "next": "1657658220750614211",
+          "prev": "1657658219751296092",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658220250854097,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658220250854097.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658220250854097",
+          "index": "1657658220240202616",
+          "next": "1657658220793790115",
+          "prev": "1657658219739989305",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658220240202616,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658220240202616.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658220250854097",
+          "index": "1657658220261277861",
+          "next": "1657658220760792328",
+          "prev": "1657658219758160610",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658220261277861,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658220261277861.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658220250854097",
+          "index": "1657658220280155408",
+          "next": "1657658220780850198",
+          "prev": "1657658219779630071",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658220280155408,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658220280155408.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658220261277861,
+        "/sama/camera/left/image_raw/compressed": 1657658220240202616,
+        "/sama/camera/right/image_raw/compressed": 1657658220280155408,
+        "/sama/location/global": 1657658220253114939,
+        "/pcd": 1657658220250854097
+      }
+    },
+    "1657658220750614211": {
+      "annotated": false,
+      "index": "1657658220750614211",
+      "next": "1657658221250018763",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.9996750716680316,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.02549021548586713
+        },
+        "position": {
+          "frame": "world",
+          "x": 595450.3147707247,
+          "y": 4344913.256036866,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658220250854097",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658220750614211",
+          "index": "1657658220750614211",
+          "next": "1657658221250018763",
+          "prev": "1657658220250854097",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658220750614211,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658220750614211.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658220750614211",
+          "index": "1657658220793790115",
+          "next": "1657658221294307478",
+          "prev": "1657658220240202616",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658220793790115,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658220793790115.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658220750614211",
+          "index": "1657658220760792328",
+          "next": "1657658221287046977",
+          "prev": "1657658220261277861",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658220760792328,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658220760792328.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658220750614211",
+          "index": "1657658220780850198",
+          "next": "1657658221281009666",
+          "prev": "1657658220280155408",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658220780850198,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658220780850198.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658220760792328,
+        "/sama/camera/left/image_raw/compressed": 1657658220793790115,
+        "/sama/camera/right/image_raw/compressed": 1657658220780850198,
+        "/sama/location/global": 1657658220752812147,
+        "/pcd": 1657658220750614211
+      }
+    },
+    "1657658221250018763": {
+      "annotated": false,
+      "index": "1657658221250018763",
+      "next": "1657658221749705182",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.9998337321590368,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.018234802903552075
+        },
+        "position": {
+          "frame": "world",
+          "x": 595450.5990758358,
+          "y": 4344913.26764599,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658220750614211",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658221250018763",
+          "index": "1657658221250018763",
+          "next": "1657658221749705182",
+          "prev": "1657658220750614211",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658221250018763,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658221250018763.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658221250018763",
+          "index": "1657658221294307478",
+          "next": "1657658221794769399",
+          "prev": "1657658220793790115",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658221294307478,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658221294307478.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658221250018763",
+          "index": "1657658221287046977",
+          "next": "1657658221764874432",
+          "prev": "1657658220760792328",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658221287046977,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658221287046977.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658221250018763",
+          "index": "1657658221281009666",
+          "next": "1657658221781437581",
+          "prev": "1657658220780850198",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658221281009666,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658221281009666.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658221287046977,
+        "/sama/camera/left/image_raw/compressed": 1657658221294307478,
+        "/sama/camera/right/image_raw/compressed": 1657658221281009666,
+        "/sama/location/global": 1657658221252398014,
+        "/pcd": 1657658221250018763
+      }
+    },
+    "1657658221749705182": {
+      "annotated": false,
+      "index": "1657658221749705182",
+      "next": "1657658222249295077",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.9992372407309189,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.039050438364499375
+        },
+        "position": {
+          "frame": "world",
+          "x": 595450.8918023462,
+          "y": 4344913.300385244,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658221250018763",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658221749705182",
+          "index": "1657658221749705182",
+          "next": "1657658222249295077",
+          "prev": "1657658221250018763",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658221749705182,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658221749705182.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658221749705182",
+          "index": "1657658221794769399",
+          "next": "1657658222295329067",
+          "prev": "1657658221294307478",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658221794769399,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658221794769399.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658221749705182",
+          "index": "1657658221764874432",
+          "next": "1657658222266759286",
+          "prev": "1657658221287046977",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658221764874432,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658221764874432.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658221749705182",
+          "index": "1657658221781437581",
+          "next": "1657658222282092825",
+          "prev": "1657658221281009666",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658221781437581,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658221781437581.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658221764874432,
+        "/sama/camera/left/image_raw/compressed": 1657658221794769399,
+        "/sama/camera/right/image_raw/compressed": 1657658221781437581,
+        "/sama/location/global": 1657658221752748966,
+        "/pcd": 1657658221749705182
+      }
+    },
+    "1657658222249295077": {
+      "annotated": false,
+      "index": "1657658222249295077",
+      "next": "1657658222748874584",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.9993332812283271,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.03651017706647521
+        },
+        "position": {
+          "frame": "world",
+          "x": 595451.1782103035,
+          "y": 4344913.336363808,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658221749705182",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658222249295077",
+          "index": "1657658222249295077",
+          "next": "1657658222748874584",
+          "prev": "1657658221749705182",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658222249295077,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658222249295077.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658222249295077",
+          "index": "1657658222295329067",
+          "next": "1657658222795385486",
+          "prev": "1657658221794769399",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658222295329067,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658222295329067.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658222249295077",
+          "index": "1657658222266759286",
+          "next": "1657658222767951599",
+          "prev": "1657658221764874432",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658222266759286,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658222266759286.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658222249295077",
+          "index": "1657658222282092825",
+          "next": "1657658222782416144",
+          "prev": "1657658221781437581",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658222282092825,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658222282092825.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658222266759286,
+        "/sama/camera/left/image_raw/compressed": 1657658222295329067,
+        "/sama/camera/right/image_raw/compressed": 1657658222282092825,
+        "/sama/location/global": 1657658222252663374,
+        "/pcd": 1657658222249295077
+      }
+    },
+    "1657658222748874584": {
+      "annotated": false,
+      "index": "1657658222748874584",
+      "next": "1657658223248376446",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.9996561747499223,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.026220836835478465
+        },
+        "position": {
+          "frame": "world",
+          "x": 595451.4413446925,
+          "y": 4344913.364805422,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658222249295077",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658222748874584",
+          "index": "1657658222748874584",
+          "next": "1657658223248376446",
+          "prev": "1657658222249295077",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658222748874584,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658222748874584.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658222748874584",
+          "index": "1657658222795385486",
+          "next": "1657658223199546798",
+          "prev": "1657658222295329067",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658222795385486,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658222795385486.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658222748874584",
+          "index": "1657658222767951599",
+          "next": "1657658223267038841",
+          "prev": "1657658222266759286",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658222767951599,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658222767951599.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658222748874584",
+          "index": "1657658222782416144",
+          "next": "1657658223282802798",
+          "prev": "1657658222282092825",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658222782416144,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658222782416144.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658222767951599,
+        "/sama/camera/left/image_raw/compressed": 1657658222795385486,
+        "/sama/camera/right/image_raw/compressed": 1657658222782416144,
+        "/sama/location/global": 1657658222752408504,
+        "/pcd": 1657658222748874584
+      }
+    },
+    "1657658223248376446": {
+      "annotated": false,
+      "index": "1657658223248376446",
+      "next": "1657658223747869503",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.999784628342708,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.02075323901547239
+        },
+        "position": {
+          "frame": "world",
+          "x": 595451.6773786178,
+          "y": 4344913.38519945,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658222748874584",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658223248376446",
+          "index": "1657658223248376446",
+          "next": "1657658223747869503",
+          "prev": "1657658222748874584",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658223248376446,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658223248376446.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658223248376446",
+          "index": "1657658223199546798",
+          "next": "1657658223701046324",
+          "prev": "1657658222795385486",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658223199546798,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658223199546798.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658223248376446",
+          "index": "1657658223267038841",
+          "next": "1657658223768513777",
+          "prev": "1657658222767951599",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658223267038841,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658223267038841.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658223248376446",
+          "index": "1657658223282802798",
+          "next": "1657658223783514892",
+          "prev": "1657658222782416144",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658223282802798,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658223282802798.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658223267038841,
+        "/sama/camera/left/image_raw/compressed": 1657658223199546798,
+        "/sama/camera/right/image_raw/compressed": 1657658223282802798,
+        "/sama/location/global": 1657658223253352880,
+        "/pcd": 1657658223248376446
+      }
+    },
+    "1657658223747869503": {
+      "annotated": false,
+      "index": "1657658223747869503",
+      "next": "1657658224247466699",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.99983864867782,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.017963201555144453
+        },
+        "position": {
+          "frame": "world",
+          "x": 595451.8858077917,
+          "y": 4344913.398666192,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658223248376446",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658223747869503",
+          "index": "1657658223747869503",
+          "next": "1657658224247466699",
+          "prev": "1657658223248376446",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658223747869503,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658223747869503.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658223747869503",
+          "index": "1657658223701046324",
+          "next": "1657658224206742575",
+          "prev": "1657658223199546798",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658223701046324,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658223701046324.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658223747869503",
+          "index": "1657658223768513777",
+          "next": "1657658224269533312",
+          "prev": "1657658223267038841",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658223768513777,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658223768513777.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658223747869503",
+          "index": "1657658223783514892",
+          "next": "1657658224283730249",
+          "prev": "1657658223282802798",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658223783514892,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658223783514892.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658223768513777,
+        "/sama/camera/left/image_raw/compressed": 1657658223701046324,
+        "/sama/camera/right/image_raw/compressed": 1657658223783514892,
+        "/sama/location/global": 1657658223752548933,
+        "/pcd": 1657658223747869503
+      }
+    },
+    "1657658224247466699": {
+      "annotated": false,
+      "index": "1657658224247466699",
+      "next": "1657658224746910268",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.9998714828529341,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.016031773996492887
+        },
+        "position": {
+          "frame": "world",
+          "x": 595452.0420476331,
+          "y": 4344913.411173402,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658223747869503",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658224247466699",
+          "index": "1657658224247466699",
+          "next": "1657658224746910268",
+          "prev": "1657658223747869503",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658224247466699,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658224247466699.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658224247466699",
+          "index": "1657658224206742575",
+          "next": "1657658224707447697",
+          "prev": "1657658223701046324",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658224206742575,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658224206742575.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658224247466699",
+          "index": "1657658224269533312",
+          "next": "1657658224770388021",
+          "prev": "1657658223768513777",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658224269533312,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658224269533312.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658224247466699",
+          "index": "1657658224283730249",
+          "next": "1657658224685338776",
+          "prev": "1657658223783514892",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658224283730249,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658224283730249.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658224269533312,
+        "/sama/camera/left/image_raw/compressed": 1657658224206742575,
+        "/sama/camera/right/image_raw/compressed": 1657658224283730249,
+        "/sama/location/global": 1657658224252855301,
+        "/pcd": 1657658224247466699
+      }
+    },
+    "1657658224746910268": {
+      "annotated": false,
+      "index": "1657658224746910268",
+      "next": "1657658225246511726",
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.9998916045942983,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.01472341882307078
+        },
+        "position": {
+          "frame": "world",
+          "x": 595452.1359819649,
+          "y": 4344913.41808923,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658224247466699",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658224746910268",
+          "index": "1657658224746910268",
+          "next": "1657658225246511726",
+          "prev": "1657658224247466699",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658224746910268,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658224746910268.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658224746910268",
+          "index": "1657658224707447697",
+          "next": "1657658225207514528",
+          "prev": "1657658224206742575",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658224707447697,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658224707447697.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658224746910268",
+          "index": "1657658224770388021",
+          "next": "1657658225271171290",
+          "prev": "1657658224269533312",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658224770388021,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658224770388021.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658224746910268",
+          "index": "1657658224685338776",
+          "next": "1657658225235941702",
+          "prev": "1657658224283730249",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658224685338776,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658224685338776.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658224770388021,
+        "/sama/camera/left/image_raw/compressed": 1657658224707447697,
+        "/sama/camera/right/image_raw/compressed": 1657658224685338776,
+        "/sama/location/global": 1657658224753501654,
+        "/pcd": 1657658224746910268
+      }
+    },
+    "1657658225246511726": {
+      "annotated": false,
+      "index": "1657658225246511726",
+      "next": null,
+      "odom": {
+        "orientation": {
+          "frame": "world",
+          "w": 0.9998890672914709,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.014894734337764379
+        },
+        "position": {
+          "frame": "world",
+          "x": 595452.1579193929,
+          "y": 4344913.421690629,
+          "z": 0.0
+        }
+      },
+      "prev": "1657658224746910268",
+      "scene": null,
+      "sensor_data": {
+        "PCD_Struct": {
+          "annotation": [],
+          "coord_frame": "PCD_Struct",
+          "frame_index": "1657658225246511726",
+          "index": "1657658225246511726",
+          "next": null,
+          "prev": "1657658224746910268",
+          "sensor_index": "PCD_Struct",
+          "timestamp": 1657658225246511726,
+          "type": "PointCloud",
+          "url": "pcd/PCD_Struct/1657658225246511726.pcd"
+        },
+        "CAM-08220639": {
+          "annotation": [],
+          "coord_frame": "CAM-08220639",
+          "distorted": false,
+          "frame_index": "1657658225246511726",
+          "index": "1657658225207514528",
+          "next": null,
+          "prev": "1657658224707447697",
+          "sensor_index": "CAM-08220639",
+          "timestamp": 1657658225207514528,
+          "type": "Image",
+          "url": "images/CAM-08220639/1657658225207514528.png"
+        },
+        "CAM-08220934": {
+          "annotation": [],
+          "coord_frame": "CAM-08220934",
+          "distorted": false,
+          "frame_index": "1657658225246511726",
+          "index": "1657658225271171290",
+          "next": null,
+          "prev": "1657658224770388021",
+          "sensor_index": "CAM-08220934",
+          "timestamp": 1657658225271171290,
+          "type": "Image",
+          "url": "images/CAM-08220934/1657658225271171290.png"
+        },
+        "CAM-08220941": {
+          "annotation": [],
+          "coord_frame": "CAM-08220941",
+          "distorted": false,
+          "frame_index": "1657658225246511726",
+          "index": "1657658225235941702",
+          "next": null,
+          "prev": "1657658224685338776",
+          "sensor_index": "CAM-08220941",
+          "timestamp": 1657658225235941702,
+          "type": "Image",
+          "url": "images/CAM-08220941/1657658225235941702.png"
+        }
+      },
+      "sync": {
+        "/sama/camera/center/image_raw/compressed": 1657658225271171290,
+        "/sama/camera/left/image_raw/compressed": 1657658225207514528,
+        "/sama/camera/right/image_raw/compressed": 1657658225235941702,
+        "/sama/location/global": 1657658225253108263,
+        "/pcd": 1657658225246511726
+      }
+    }
+  },
+  "index": "WASP-A3_sama_recorder_2022-07-12-20-36-51_2_clip_0",
+  "path": null,
+  "scene_frequency": 2.0005790479097754,
+  "sensors": {
+    "PCD_Struct": {
+      "annotated": false,
+      "data": {},
+      "frequency": 10.002895239548877,
+      "index": "PCD_Struct",
+      "rotation": {
+        "frame": "base_link",
+        "w": 3.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "topic": "/pcd",
+      "translation": { "frame": "base_link", "x": 0.875, "y": 0.0, "z": 1.063 },
+      "type": "lidar"
+    },
+    "CAM-08220639": {
+      "D": [-0.298686, 0.069685, 0.000593, 0.000188, 0.0],
+      "K_original": [
+        1056.896856, 0.0, 984.764296, 0.0, 1057.628103, 601.72533, 0.0, 0.0, 1.0
+      ],
+      "K_undistorted": [
+        735.641357421875, 0.0, 994.3091197822941, 0.0, 940.4847412109375,
+        602.6905940226352, 0.0, 0.0, 1.0
+      ],
+      "P": [
+        735.639587, 0.0, 994.30892, 0.0, 0.0, 940.484619, 602.689955, 0.0, 0.0,
+        0.0, 1.0, 0.0
+      ],
+      "R": [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0],
+      "annotated": false,
+      "cv2_version": "4.2.0",
+      "data": {},
+      "distortion_model": "plumb_bob",
+      "frequency": 10.021405642784526,
+      "height": 1199,
+      "index": "CAM-08220639",
+      "location": "left",
+      "rotation": {
+        "frame": "PCD_Struct",
+        "w": 0.9153178010618871,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.40273232184570396
+      },
+      "topic": "/sama/camera/left/image_raw/compressed",
+      "translation": {
+        "frame": "PCD_Struct",
+        "x": 1.30474,
+        "y": 0.19458,
+        "z": 0.45107
+      },
+      "type": "camera",
+      "width": 1919
+    },
+    "CAM-08220934": {
+      "D": [-0.302437, 0.072539, 0.000937, 0.000918, 0.0],
+      "K_original": [
+        1050.532709, 0.0, 938.101643, 0.0, 1051.418458, 590.417433, 0.0, 0.0,
+        1.0
+      ],
+      "K_undistorted": [
+        733.8021850585938, 0.0, 941.2703270356724, 0.0, 932.0836181640625,
+        588.7119786141338, 0.0, 0.0, 1.0
+      ],
+      "P": [
+        733.802917, 0.0, 941.270829, 0.0, 0.0, 932.083801, 588.711539, 0.0, 0.0,
+        0.0, 1.0, 0.0
+      ],
+      "R": [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0],
+      "annotated": false,
+      "cv2_version": "4.2.0",
+      "data": {},
+      "distortion_model": "plumb_bob",
+      "frequency": 10.085855816861443,
+      "height": 1199,
+      "index": "CAM-08220934",
+      "location": "center",
+      "rotation": {
+        "frame": "PCD_Struct",
+        "w": 1.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "topic": "/sama/camera/center/image_raw/compressed",
+      "translation": {
+        "frame": "PCD_Struct",
+        "x": 1.36616,
+        "y": 0.0,
+        "z": -0.00159
+      },
+      "type": "camera",
+      "width": 1919
+    },
+    "CAM-08220941": {
+      "D": [-0.295963, 0.068242, 0.000321, 0.001843, 0.0],
+      "K_original": [
+        1064.335351, 0.0, 940.64016, 0.0, 1065.158944, 601.838986, 0.0, 0.0, 1.0
+      ],
+      "K_undistorted": [
+        741.7078247070312, 0.0, 944.4892915141609, 0.0, 950.4515991210938,
+        602.3590885308513, 0.0, 0.0, 1.0
+      ],
+      "P": [
+        741.709229, 0.0, 944.49161, 0.0, 0.0, 950.451782, 602.359205, 0.0, 0.0,
+        0.0, 1.0, 0.0
+      ],
+      "R": [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0],
+      "annotated": false,
+      "cv2_version": "4.2.0",
+      "data": {},
+      "distortion_model": "plumb_bob",
+      "frequency": 10.017145416007404,
+      "height": 1199,
+      "index": "CAM-08220941",
+      "location": "right",
+      "rotation": {
+        "frame": "PCD_Struct",
+        "w": 0.9153178010618871,
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.40273232184570396
+      },
+      "topic": "/sama/camera/right/image_raw/compressed",
+      "translation": {
+        "frame": "PCD_Struct",
+        "x": 1.30474,
+        "y": -0.19458,
+        "z": 0.45107
+      },
+      "type": "camera",
+      "width": 1919
+    }
+  },
+  "tf": {}
+}
