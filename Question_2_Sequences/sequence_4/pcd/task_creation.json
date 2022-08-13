@@ -1,0 +1,9 @@
+{
+    "data": {
+        "CloudURL": "sequence_4/pcd/PCD_Struct/",
+        "LeftCamera": "sequence_4/images/CAM-08220639",
+        "RightCamera": "sequence_4/images/CAM-08220941",
+        "CenterCamera": "sequence_4/images/CAM-08220934",
+        "SensorMetadata": "sequence_4/pcd/sensor_metadata.zip"
+    }
+}
